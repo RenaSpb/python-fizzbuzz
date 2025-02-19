@@ -1,4 +1,4 @@
-Hello, Renata!
+Hello, Renata! Have a nice day!
 
 # Python FizzBuzz
 
