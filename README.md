@@ -1,4 +1,4 @@
-Hello, Renata! How are you?
+Hello, Renata!
 
 # Python FizzBuzz
 
@@ -21,7 +21,7 @@ $ source venv/bin/activate
 3.  Install the dependencies
 
 
-```bash
+```bash`
 pip install -r requirements.txt
 ```
 
